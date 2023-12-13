@@ -24,4 +24,4 @@ module load cuda
 
 
 
-CUDA_VISIBLE_DEVICES=0 python /misc/no_backups/s1449/TotalSegmentator/segmentor.py
+CUDA_VISIBLE_DEVICES=0 python /no_backups/s1449/TotalSegmentator/segmentator.py
